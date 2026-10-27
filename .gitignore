@@ -1,0 +1,16 @@
+# Generated files and local editor state
+**/build*/
+**/.cache/
+**/__pycache__/
+**/.venv/
+**/.vscode/
+.DS_Store
+
+# Unused files retained locally from the complete upstream sample copy.
+# This learning repository tracks only the configuration tested on my DK.
+/bme280/boards/
+/bme280/arduino_i2c.overlay
+/bme280/arduino_spi.overlay
+/bme280/rpi_pico_spi_pio.overlay
+/bme280/sample.yaml
+/bme280/README.rst
