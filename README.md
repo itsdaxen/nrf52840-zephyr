@@ -1,6 +1,6 @@
-# Embedded experiments
+# nRF52840 and Zephyr
 
-Firmware experiments using the nRF52840 DK and Zephyr. Each experiment records hardware connections, configuration and observed results.
+Firmware experiments using the nRF52840 DK and Zephyr. Each experiment records hardware configuration and observed results.
 
 ## 01: BME280 over I2C
 
